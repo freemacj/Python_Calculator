@@ -5,7 +5,7 @@ print("Type 'quit' to exit\n")
 
 previous = 0
 run = True
-#set previous to to zero because we have not done any math yet!
+#set previous to zero because we have not done any math yet!
 
 def perform_math():
     global run
